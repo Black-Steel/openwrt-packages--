@@ -279,5 +279,6 @@ LuCI ---> Applications ---> luci-app-wrtbwmon  #实时流量监测
 LuCI ---> Applications ---> luci-app-xlnetacc  #迅雷快鸟
 LuCI ---> Applications ---> luci-app-zerotier  #ZeroTier内网穿透
 ----------------------------------------------------------------------------------------
+
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/ysx88/openwrt-packages.svg)](https://starchart.cc/ysx88/openwrt-packages)
